@@ -1,0 +1,11 @@
+.lp {
+    background-color: rgb(14, 216, 192);
+    height: 100px;
+    width: 100px;
+    border-radius: 60px;
+    margin-left: 3rem;
+}
+.box {
+    justify-content: space-between;
+    display: flex;
+} 

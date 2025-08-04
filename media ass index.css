@@ -1,0 +1,16 @@
+.op {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: purple;
+    padding: 20px;
+}
+@media screen and (min-width: 600px) {
+    .op {
+        background-color: red;
+    }
+}
+@media screen and (max-width: 900px) {
+    .op {
+        background-color:brown;
+    }
+}

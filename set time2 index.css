@@ -1,0 +1,283 @@
+.box {
+    background-color: aqua;
+    width: 1330px;
+    height: 70px;
+}
+.edu {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+.set-time {
+    width: 500px;
+    color: darkblue;
+    font-size: 30px;
+    position: absolute;
+    left: 100px;
+    top: 5px;
+}
+.nav {
+    display: flex;
+    gap: 50px;
+    position: absolute;
+    left: 450px;
+    top: 15px;
+    color: darkblue;
+}
+.span1:hover {
+    text-decoration: underline;
+    font-size: 17px;
+    transition: 1s ease;
+}
+.span2:hover {
+    text-decoration: underline;
+    font-size: 17px;
+    transition: 0.7s ease;
+}
+.span3:hover {
+    text-decoration: underline;
+    font-size: 17px;
+    transition: 0.7s ease;
+}
+.span4:hover {
+    text-decoration: underline;
+    font-size: 17px;
+    transition: 0.7s ease;
+}
+.span5:hover {
+    text-decoration: underline;
+    font-size: 17px;
+    transition: 0.7s ease;
+}
+.btn1 {
+    position: absolute;
+    left: 950px;
+    bottom: 10px;
+    color: darkblue;
+    border: 2px solid yellow;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+}
+.btn2 {
+    position: absolute;
+    left: 1050px;
+    bottom: 10px;
+    color: darkblue;
+    border: 2px solid yellow;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+}
+.btn1:hover {
+    background-color: purple;
+    border: purple;
+    transition: background-color 1s ease;
+}
+.btn2:hover {
+    background-color: purple;
+    border: purple;
+    transition: background-color 1s ease;
+}
+.img1 {
+    position: absolute;
+    bottom: -400px;
+    left: -12px;
+}
+.settime {
+    width: 500px;
+    position: absolute;
+    bottom: -170px;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+}
+.hom {
+    width: 70px;
+    position: absolute;
+    bottom: -200px;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+}
+.abt {
+    width: 100px;
+    position: absolute;
+    bottom: -200px;
+    font-size: 15px;
+    font-weight: bold;
+    left: 110px;
+    color: yellow;
+}
+.wwa {
+    width: 150px;
+    position: absolute;
+    bottom: -500px;
+    font-size: 25px;
+    font-weight: bold;
+    color: darkblue;
+}
+.lor {
+    width: 450px;
+    position: absolute;
+    bottom: -580px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.wwd {
+    width: 150px;
+    position: absolute;
+    bottom: -650px;
+    font-size: 25px;
+    font-weight: bold;
+    color: darkblue;
+}
+.lor1 {
+    width: 450px;
+    position: absolute;
+    bottom: -730px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.btn3 {
+    width: 100px;
+    position: absolute;
+    left: 50px;
+    bottom: -790px;
+    color: darkblue;
+    border: none;
+    background-color: yellow;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+}
+.btn3:hover {
+    background-color: purple;
+    border: purple;
+    transition: background-color 1s ease;
+}
+.comp {
+    position: absolute;
+    bottom: -790px;
+    left: 700px;
+}
+.comp:hover {
+    transform: scale(1.2);
+    transition: 1s ease;
+}
+.wcoi {
+    width: 300px;
+    position: absolute;
+    bottom: -930px;
+    left: 530px;
+    font-size: 25px;
+    color: darkblue;
+}
+.em {
+    position: absolute;
+    bottom: -1050px;
+    left: 200px;
+}
+.user {
+    position: absolute;
+    bottom: -1055px;
+    left: 620px;
+}
+.doc {
+    position: absolute;
+    bottom: -1055px;
+    left: 1000px;
+}
+.cir1 {
+    position: absolute;
+    width: 80px;
+    border: 3px solid purple;
+    border-radius: 5000px;
+    height: 70px;
+    bottom: -1064px;
+    left: 182px;
+}
+.cir1:hover {
+    transform: scale(1.2);
+    transition: 1s ease;
+}
+.cir2 {
+    position: absolute;
+    width: 80px;
+    border: 3px solid purple;
+    border-radius: 5000px;
+    height: 70px;
+    bottom: -1064px;
+    left: 605px;
+}
+.cir2:hover {
+    transform: scale(1.2);
+    transition: 1s ease;
+}
+.cir3 {
+    position: absolute;
+    width: 80px;
+    border: 3px solid purple;
+    border-radius: 5000px;
+    height: 70px;
+    bottom: -1064px;
+    left: 1000px;
+}
+.cir3:hover {
+    transform: scale(1.2);
+    transition: 1s ease;
+}
+.jo {
+    width: 300px;
+    position: absolute;
+    bottom: -1100px;
+    left: 150px;
+    font-weight: bold;
+    font-size: 20px;
+    color: darkblue;
+}
+.skl {
+    width: 300px;
+    position: absolute;
+    bottom: -1100px;
+    left: 580px;
+    font-weight: bold;
+    font-size: 20px;
+    color: darkblue;
+}
+.rp {
+    width: 200px;
+    position: absolute;
+    bottom: -1100px;
+    left: 980px;
+    font-weight: bold;
+    font-size: 20px;
+    color: darkblue;
+}
+.lor2 {
+    width: 300px;
+    position: absolute;
+    bottom: -1140px;
+    left: 70px;
+    text-align: center;
+    font-size: 15px;
+}
+.lor3 {
+    width: 300px;
+    position: absolute;
+    bottom: -1140px;
+    left: 490px;
+    text-align: center;
+    font-size: 15px;
+}
+.lor4 {
+    width: 300px;
+    position: absolute;
+    bottom: -1140px;
+    left: 900px;
+    text-align: center;
+    font-size: 15px;
+}

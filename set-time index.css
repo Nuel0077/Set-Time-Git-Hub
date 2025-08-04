@@ -1,0 +1,974 @@
+.box {
+    background-color: aqua;
+    width: 1330px;
+    height: 70px;
+}
+.edu {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+.set-time {
+    width: 500px;
+    color: darkblue;
+    font-size: 30px;
+    position: absolute;
+    left: 100px;
+    top: 5px;
+}
+.nav {
+    display: flex;
+    gap: 50px;
+    position: absolute;
+    left: 450px;
+    top: 15px;
+    color: darkblue;
+}
+.span1:hover {
+    text-decoration: underline;
+    font-size: 17px;
+    transition: 1s ease;
+}
+.span2:hover {
+    text-decoration: underline;
+    font-size: 17px;
+    transition: 0.7s ease;
+}
+.span3:hover {
+    text-decoration: underline;
+    font-size: 17px;
+    transition: 0.7s ease;
+}
+.span4:hover {
+    text-decoration: underline;
+    font-size: 17px;
+    transition: 0.7s ease;
+}
+.span5:hover {
+    text-decoration: underline;
+    font-size: 17px;
+    transition: 0.7s ease;
+}
+.btn1 {
+    position: absolute;
+    left: 950px;
+    bottom: 10px;
+    color: darkblue;
+    border: 2px solid yellow;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+}
+.btn2 {
+    position: absolute;
+    left: 1050px;
+    bottom: 10px;
+    color: darkblue;
+    border: 2px solid yellow;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+}
+.btn1:hover {
+    background-color: purple;
+    border: purple;
+    transition: background-color 1s ease;
+}
+.btn2:hover {
+    background-color: purple;
+    border: purple;
+    transition: background-color 1s ease;
+}
+.img1 {
+    position: absolute;
+    bottom: -504px;
+    left: -12px;
+}
+.settime {
+    width: 500px;
+    position: absolute;
+    bottom: -150px;
+    line-height: 1.5;
+    font-size: 30px;
+    font-weight: bold;
+    color: purple;
+}
+.lorem {
+    width: 500px;
+    position: absolute;
+    bottom: -210px;
+    font-size: 15px;
+    color: purple;
+}
+.btn4 {
+    width: 150px;
+    position: absolute;
+    left: 55px;
+    bottom: -290px;
+    color: darkblue;
+    background-color: yellow;
+    border: none;
+    padding: 20px;
+    border-radius: 5px;
+}
+.btn4:hover {
+    background-color: purple;
+    border: purple;
+    transition: background-color 1s ease;
+}
+.box1 {
+    background-color: darkblue;
+    width: 300px;
+    position: absolute;
+    height: 100px;
+    bottom: -450px;
+    left: 55px;
+    opacity: 0.5;
+}
+.box1:hover {
+    transform: scale(1.1);
+    background-color: purple;
+    transition: background-color 1.5s ease;
+    border: 3px solid yellow;
+    border-radius: 50px;
+}
+.job1 {
+    width: 200px;
+    position: absolute;
+    bottom: -385px;
+    font-size: 20px;
+    color: white;
+    left: 70px;
+}
+.c1 {
+    width: 300px;
+    position: absolute;
+    bottom: -430px;
+    font-size: 13px;
+    color: white;
+    left: 70px;
+}
+.email {
+    position: absolute;
+    bottom: -400px;
+    left: 300px;
+}
+.box2 {
+    width: 300px;
+    position: absolute;
+    height: 100px;
+    bottom: -450px;
+    left: 500px;
+    opacity: 0.7;
+    background-color: darkblue;
+}
+.box2:hover {
+    transform: scale(1.1);
+    background-color: purple;
+    transition: background-color 1.5s ease;
+    border: 3px solid yellow;
+    border-radius: 50px;
+}
+.ski {
+    width: 200px;
+    position: absolute;
+    bottom: -385px;
+    font-size: 20px;
+    color: white;
+    left: 515px;
+}
+.c2 {
+    width: 300px;
+    position: absolute;
+    bottom: -430px;
+    font-size: 13px;
+    color: white;
+    left: 515px;
+}
+.user {
+    position: absolute;
+    bottom: -407px;
+    left: 740px;
+}
+.box3 {
+    width: 300px;
+    position: absolute;
+    height: 100px;
+    bottom: -450px;
+    left: 950px;
+    opacity: 0.7;
+    background-color: darkblue;
+}
+.box3:hover {
+    transform: scale(1.1);
+    background-color: purple;
+    transition: background-color 1.5s ease;
+    border: 3px solid yellow;
+    border-radius: 50px;
+}
+.res {
+    width: 200px;
+    position: absolute;
+    bottom: -385px;
+    font-size: 20px;
+    color: white;
+    left: 965px;
+}
+.c3 {
+    width: 300px;
+    position: absolute;
+    bottom: -430px;
+    font-size: 13px;
+    color: white;
+    left: 965px;
+}
+.doc {
+    position: absolute;
+    bottom: -405px;
+    left: 1180px;
+}
+.wel {
+    width: 200px;
+    position: absolute;
+    bottom: -700px;
+    font-size: 30px;
+    font-weight: bold;
+    color: yellow;
+    left: 70px;
+}
+.set {
+    width: 300px;
+    position: absolute;
+    bottom: -700px;
+    font-size: 30px;
+    font-weight: bold;
+    color: darkblue;
+    left: 235px;
+}
+.lorem1 {
+    width: 500px;
+    position: absolute;
+    bottom: -790px;
+    font-size: 15px;
+    left: 71px;
+}
+.btn5 {
+    width: 110px;
+    position: absolute;
+    left: 71px;
+    bottom: -870px;
+    color: darkblue;
+    background-color: yellow;
+    border: none;
+    padding: 20px;
+    border-radius: 5px;
+}
+.btn5:hover {
+    background-color: purple;
+    border: purple;
+    transition: background-color 1s ease;
+}
+.book {
+    position: absolute;
+    bottom: -900px;
+    left: 700px;
+}
+.box4 {
+    width: 1330px;
+    position: absolute;
+    height: 700px;
+    bottom: -1650px;
+    left: -12px;
+    background-color: darkblue;
+}
+.feat {
+    width: 300px;
+    position: absolute;
+    bottom: -1020px;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    left: 70px;
+}
+.comp {
+    position: absolute;
+    z-index: 1;
+    bottom: -1330px;
+    left: 72px;
+}
+.box5 {
+    width: 400px;
+    position: absolute;
+    height: 277px;
+    bottom: -1600px;
+    left: 72px;
+    border-radius: 5px;
+    background-color: white;
+}
+.bec {
+    width: 350px;
+    position: absolute;
+    bottom: -1380px;
+    font-weight: bold;
+    font-size: 20px;
+    color: darkblue;
+    left: 115px;
+}
+.bec:hover {
+    color: purple;
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+.user1 {
+    position: absolute;
+    bottom: -1407px;
+    left: 112px;
+}
+.mr {
+    width: 100px;
+    position: absolute;
+    bottom: -1406px;
+    font-weight: bold;
+    font-size: 15px;
+    left: 135px;
+}
+.lorem2 {
+    width: 500px;
+    position: absolute;
+    bottom: -1570px;
+    font-size: 15px;
+    left: 116px;
+}
+.comp1 {
+    position: absolute;
+    z-index: 1;
+    bottom: -1215px;
+    left: 550px;
+}
+.box6 {
+    width: 200px;
+    position: absolute;
+    height: 100px;
+    bottom: -1310px;
+    border-radius: 5px;
+    left: 550px;
+    background-color: white;
+}
+.bec1 {
+    width: 200px;
+    position: absolute;
+    bottom: -1295px;
+    font-weight: bold;
+    font-size: 20px;
+    color: darkblue;
+    left: 565px;
+}
+.bec1:hover {
+    color: purple;
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+.comp2 {
+    position: absolute;
+    z-index: 1;
+    bottom: -1215px;
+    left: 825px;
+}
+.box7 {
+    width: 200px;
+    position: absolute;
+    height: 70px;
+    bottom: -1281px;
+    border-radius: 5px;
+    left: 825px;
+    background-color: white;
+}
+.gen {
+    width: 200px;
+    position: absolute;
+    bottom: -1271px;
+    font-weight: bold;
+    font-size: 20px;
+    color: darkblue;
+    left: 838px;
+}
+.gen:hover {
+    color: purple;
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+.comp3 {
+    position: absolute;
+    z-index: 1;
+    bottom: -1500px;
+    left: 550px;
+}
+.box8 {
+    width: 200px;
+    position: absolute;
+    height: 70px;
+    bottom: -1566px;
+    border-radius: 5px;
+    left: 550px;
+    background-color: white;
+}
+.bec2 {
+    width: 170px;
+    position: absolute;
+    z-index: 1;
+    bottom: -1554px;
+    font-weight: bold;
+    font-size: 20px;
+    color: darkblue;
+    left: 570px;
+}
+.bec2:hover {
+    color: purple;
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+.comp4 {
+    position: absolute;
+    z-index: 1;
+    bottom: -1500px;
+    left: 825px;
+}
+.box9 {
+    width: 200px;
+    position: absolute;
+    height: 70px;
+    bottom: -1566px;
+    border-radius: 5px;
+    left: 825px;
+    background-color: white;
+}
+.rob {
+    width: 170px;
+    position: absolute;
+    z-index: 1;
+    bottom: -1554px;
+    font-weight: bold;
+    font-size: 20px;
+    color: darkblue;
+    left: 850px;
+}
+.rob:hover {
+    color: purple;
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+.exp {
+    width: 600px;
+    position: absolute;
+    bottom: -1750px;
+    font-weight: bold;
+    font-size: 30px;
+    color: darkblue;
+    left: 370px;
+}
+.tech {
+    position: absolute;
+    bottom: -2070px;
+    left: 475px;
+}
+.tech:hover {
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+.full {
+    width: 600px;
+    position: absolute;
+    bottom: -1970px;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    left: 380px;
+}
+.tech1 {
+    position: absolute;
+    bottom: -1924px;
+    left: 150px;
+}
+.tech1:hover {
+    transform: translateX(-20px);
+    transition: 1s ease;
+}
+.fron {
+    width: 600px;
+    position: absolute;
+    bottom: -1900px;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    left: 13px;
+}
+.tech2{
+    position: absolute;
+    bottom: -2070px;
+    left: 150px;
+}
+.tech2:hover {
+    transform: translateX(-20px);
+    transition: 1s ease;
+}
+.ui {
+    width: 600px;
+    position: absolute;
+    bottom: -2025px;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    left: 13px;
+}
+.tech3 {
+    position: absolute;
+    bottom: -1924px;
+    left: 900px;
+}
+.tech3:hover {
+    transform: translateX(+20px);
+    transition: 1s ease;
+}
+.rob1 {
+    width: 300px;
+    position: absolute;
+    bottom: -1900px;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    left: 900px;
+}
+.tech4 {
+    position: absolute;
+    bottom: -2070px;
+    left: 900px;
+}
+.tech4:hover {
+    transform: translateX(+20px);
+    transition: 1s ease;
+}
+.back {
+    width: 300px;
+    position: absolute;
+    bottom: -2040px;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    left: 900px;
+}
+.meet {
+    width: 400px;
+    position: absolute;
+    bottom: -2170px;
+    font-weight: bold;
+    font-size: 30px;
+    color: darkblue;
+    left: 150px;
+}
+.tech5{
+    position: absolute;
+    bottom: -2500px;
+    left: 150px;
+}
+.tech5:hover {
+    transform: translateY(-15px);
+    transition: transform 1s ease;
+}
+.tech6 {
+    position: absolute;
+    bottom: -2500px;
+    left: 435px;
+}
+.tech6:hover {
+    transform: translateY(-15px);
+    transition: transform 1s ease;
+}
+.tech7 {
+    position: absolute;
+    bottom: -2500px;
+    left: 710px;
+}
+.tech7:hover {
+    transform: translateY(-15px);
+    transition: transform 1s ease;
+}
+.tech8 {
+    position: absolute;
+    bottom: -2500px;
+    left: 980px;
+}
+.tech8:hover {
+    transform: translateY(-10px);
+    transition: transform 1s ease;
+}
+.mr1 {
+    width: 100px;
+    position: absolute;
+    bottom: -2535px;
+    font-weight: bold;
+    font-size: 20px;
+    color: darkblue;
+    left: 149px;
+}
+.web {
+    width: 200px;
+    position: absolute;
+    bottom: -2560px;
+    font-weight: bold;
+    font-size: 17px;
+    left: 150px;
+}
+.box10 {
+    width: 135px;
+    position: absolute;
+    height: 2px;
+    bottom: -2570px;
+    left: 150px;
+    background-color: yellow;
+}
+.mr2 {
+    width: 150px;
+    position: absolute;
+    bottom: -2535px;
+    font-weight: bold;
+    font-size: 20px;
+    color: darkblue;
+    left: 435px;
+}
+.back1 {
+    width: 200px;
+    position: absolute;
+    bottom: -2560px;
+    font-weight: bold;
+    font-size: 17px;
+    left: 435px;
+}
+.box11 {
+    width: 140px;
+    position: absolute;
+    height: 2px;
+    bottom: -2570px;
+    left: 435px;
+    background-color: yellow;
+}
+.mr3 {
+    width: 150px;
+    position: absolute;
+    bottom: -2535px;
+    font-weight: bold;
+    font-size: 20px;
+    color: darkblue;
+    left: 710px;
+}
+.ui1 {
+    width: 200px;
+    position: absolute;
+    bottom: -2560px;
+    font-weight: bold;
+    font-size: 17px;
+    left: 710px;
+}
+.box12 {
+    width: 110px;
+    position: absolute;
+    height: 2px;
+    bottom: -2570px;
+    left: 711px;
+    background-color: yellow;
+}
+.mr4 {
+    width: 150px;
+    position: absolute;
+    bottom: -2535px;
+    font-weight: bold;
+    font-size: 20px;
+    color: darkblue;
+    left: 981px;
+}
+.rob2 {
+    width: 200px;
+    position: absolute;
+    bottom: -2560px;
+    font-weight: bold;
+    font-size: 17px;
+    left: 981px;
+}
+.box13 {
+    width: 110px;
+    position: absolute;
+    height: 2px;
+    bottom: -2570px;
+    left: 981px;
+    background-color: yellow;
+}
+.studs {
+    position: absolute;
+    bottom: -3200px;
+    left: -12px;
+}
+.all {
+    width: 400px;
+    position: absolute;
+    bottom: -2800px;
+    font-weight: bold;
+    font-size: 30px;
+    color: purple;
+    left: 450px;
+}
+.aca {
+    width: 400px;
+    position: absolute;
+    bottom: -2890px;
+    font-weight: bold;
+    font-size: 27px;
+    color: purple;
+    left: 50px;
+}
+.lor {
+    width: 270px;
+    position: absolute;
+    bottom: -3010px;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    left: 50px;
+}
+.fb {
+    position: absolute;
+    bottom: -3080px;
+    left: 50px;
+}
+.fb:hover {
+    transform: scale(1.2);
+    transition: 0.8s ease;
+}
+.x {
+    position: absolute;
+    bottom: -3087px;
+    left: 90px;
+}
+.x:hover {
+    transform: scale(1.2);
+    transition: 0.8s ease;
+}
+.ig {
+    position: absolute;
+    bottom: -3080px;
+    left: 165px;
+}
+.ig:hover {
+    transform: scale(1.2);
+    transition: 0.8s ease;
+}
+.pin {
+    position: absolute;
+    bottom: -3076px;
+    left: 225px;
+}
+.pin:hover {
+    transform: scale(1.2);
+    transition: 0.8s ease;
+}
+.in {
+    position: absolute;
+    bottom: -3080px;
+    left: 275px;
+}
+.in:hover {
+    transform: scale(1.2);
+    transition: 0.8s ease;
+}
+.ex {
+    width: 200px;
+    position: absolute;
+    bottom: -2890px;
+    font-weight: bold;
+    font-size: 27px;
+    color: purple;
+    left: 370px;
+}
+.ux {
+    width: 200px;
+    position: absolute;
+    bottom: -3052px;
+    font-weight: bold;
+    line-height: 2;
+    color: white;
+    font-size: 15px;
+    left: 370px;
+}
+.spa1:hover {
+    text-decoration: underline;
+    font-size: 16px;
+    transition: 0.7s ease;
+}
+.spa2:hover {
+    text-decoration: underline;
+    font-size: 16px;
+    transition: 0.7s ease;
+}
+.spa3:hover {
+    text-decoration: underline;
+    font-size: 16px;
+    transition: 0.7s ease;
+}
+.spa4:hover {
+    text-decoration: underline;
+    font-size: 16px;
+    transition: 0.7s ease;
+}
+.spa5:hover {
+    text-decoration: underline;
+    font-size: 16px;
+    transition: 0.7s ease;
+}
+.con {
+    width: 200px;
+    position: absolute;
+    bottom: -2890px;
+    font-weight: bold;
+    font-size: 27px;
+    color: purple;
+    left: 610px;
+}
+.call {
+    width: 200px;
+    position: absolute;
+    bottom: -2993px;
+    font-weight: bold;
+    color: white;
+    line-height: 2;
+    font-size: 15px;
+    left: 610px;
+}
+.sp1:hover {
+    text-decoration: underline;
+    font-size: 16px;
+    transition: 0.7s ease;
+}
+.sp2:hover {
+    text-decoration: underline;
+    font-size: 16px;
+    transition: 0.7s ease;
+}
+.sp3:hover {
+    text-decoration: underline;
+    font-size: 16px;
+    transition: 0.7s ease;
+}
+.ph {
+    position: absolute;
+    bottom: -2926px;
+    left: 670px;
+}
+.em {
+    position: absolute;
+    bottom: -2954px;
+    left: 673px;
+}
+.loc {
+    position: absolute;
+    bottom: -2986px;
+    left: 677px;
+}
+.numb {
+    width: 200px;
+    position: absolute;
+    bottom: -2926px;
+    font-weight: bold;
+    font-size: 13px;
+    color: blue;
+    left: 690px;
+}
+.emai {
+    width: 200px;
+    position: absolute;
+    bottom: -2955px;
+    font-weight: bold;
+    font-size: 13px;
+    color: blue;
+    left: 690px;
+}
+.karma {
+    width: 200px;
+    position: absolute;
+    bottom: -2995px;
+    font-weight: bold;
+    font-size: 13px;
+    color: blue;
+    left: 695px;
+}
+.nws {
+    width: 200px;
+    position: absolute;
+    bottom: -2890px;
+    font-weight: bold;
+    font-size: 27px;
+    color: purple;
+    left: 900px;
+}
+.pell {
+    width: 400px;
+    position: absolute;
+    color: white;
+    bottom: -2959px;
+    font-weight: bold;
+    font-size: 15px;
+    left: 900px;
+}
+.eml {
+    width: 70px;
+    position: absolute;
+    bottom: -2995px;
+    font-size: 15px;
+    color: white;
+    left: 920px;
+}
+.pod {
+    width: 170px;
+    position: absolute;
+    height: 32px;
+    bottom: -3005px;
+    left: 900px;
+    border-radius: 5px;
+    border: 2px solid yellow;
+}
+.btn6 {
+    width: 100px;
+    position: absolute;
+    left: 900px;
+    bottom: -3070px;
+    border: none;
+    background-color: yellow;
+    padding: 15px;
+    border-radius: 5px;
+}
+.btn6:hover {
+    background-color: purple;
+    border: purple;
+    transition: background-color 1s ease;
+}
+.niel {
+    width: 1330px;
+    position: absolute;
+    height: 3px;
+    left: -12px;
+    bottom: -3130px;
+    background-color: white;
+}
+.copy {
+    width: 500px;
+    position: absolute;
+    bottom: -3170px;
+    font-weight: bold;
+    font-size: 17px;
+    color: purple;
+    left: 440px;
+}

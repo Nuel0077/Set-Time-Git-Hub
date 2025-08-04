@@ -1,0 +1,243 @@
+div {
+    margin: 50px;
+    margin-left: 500px;
+}
+.set-time {
+    color: black;
+    font-weight: bold;
+    padding-left: 18px;
+    margin-top: 20px;
+}
+.digital {
+    color: yellow;
+    font-size: 2rem;
+}
+.hub-academy {
+    color: yellowgreen;
+    font-size: 14px;
+    padding-left: 8px;
+}
+.g {
+    margin: 50px;
+    width: 100px;
+    height: 120px;
+    position: relative;
+    position: absolute;
+    bottom: 340px;
+    left: 910px;
+}
+.w {
+    margin: 50px;
+    width: 180px;
+    height: 100px;
+    bottom:60px;
+    left: 270px;
+    position: relative;
+}
+.line1 {
+    color: orange;
+    font-size: 15px
+}
+.line2 {
+    color: orange;
+    font-size: 1.5rem;
+}
+.line3 {
+    font-weight: bolder;
+    top: 50px;
+    font-size: 16px;
+}
+.l {
+    margin: 50px;
+    width: 180px;
+    height: 100px;
+    position: relative;
+    bottom: 250px;
+    left: 170px;
+    transform: rotate(270deg);
+    font-size: 15px;
+}
+.kd {
+    font-weight: bold;
+    font-size: 13px;
+}
+.h4 {
+    font-size: 10px;
+    border: 2px solid black;
+    border-right: none;
+    border-left: none;
+}
+.km {
+    font-size: 10px;
+    font-weight: bold;
+}
+.i {
+    margin: 50px;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    bottom: 340px;
+    left: 50px;
+    font-weight: bolder;
+    font-size: 25px;
+}
+.dm {
+    width: 500px;
+    margin: 20px;
+    position: relative;
+    bottom: 400px;
+    left: 60px;
+    font-size: 50px;
+    color: orange;
+}
+.pm {
+    margin: 50px;
+    width: 100px;
+    position: relative;
+    bottom: 530px;
+    left: -50px; 
+    transform: rotate(270deg);
+    font-size: 20px;
+    font-weight: bolder;
+}
+.a {
+    margin: 50px;
+    width: 100px;
+    position: relative;
+    position: absolute;
+    bottom: 280px;
+    left: 200px;
+    transform: scale(2.1);
+}
+.dot {
+    margin: 50px;
+    position: relative;
+    bottom: 850px;
+    font-size: 17px;
+    left: 40px;
+    transform: rotate(270deg);
+    font-weight: bolder;
+}
+.code {
+    margin: 50px;
+    position: relative;
+    bottom: 660px;
+    left: 112px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.pd {
+    margin: 50px;
+    position: relative;
+    bottom: 710px;
+    left: 110px;
+    font-size: 55px;
+    font-weight: bolder;
+    transform: scaleY(1.4);
+}
+.lp {
+    margin: 50px;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    bottom: 832px;
+    left: -20px;
+    font-size: 45px;
+    font-weight: bolder;
+    transform: scaleY(1.5);
+}
+.hp {
+    margin: 50px;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    bottom: 942px;
+    left: 70px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.cp {
+    margin: 50px;
+    width: 150px;
+    position: relative;
+    bottom: 1070px;
+    left: 470px;
+    font-size: 30px;
+    font-weight: bold;
+    color: red;
+}
+.mp {
+    margin: 50px;
+    width: 300px;
+    position: relative;
+    bottom: 1200px;
+    left: 215px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.np {
+    margin: 50px;
+    width: 300px;
+    position: relative;
+    bottom: 1240px;
+    left: 250px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.nue {
+    margin: 50px;
+    width: 300px;
+    position: relative;
+    bottom: 1425px;
+    left: 40px;
+    font-size: 22px;
+    font-weight: bold;
+    transform: rotate(270deg);
+}
+.bh {
+    margin: 50px;
+    width: 300px;
+    position: relative;
+    bottom: 1500px;
+    left: -150px;
+    font-size: 20px;
+    text-align: center;
+    color: orange;
+    font-size: 30px;
+    font-weight: bold;
+}
+.cd {
+    margin: 50px;
+    width: 400px;
+    position: relative;
+    bottom: 1540px;
+    left: -170px;
+    font-size: 20px;
+    font-size: 29px;
+    font-weight: bold;
+}
+.hq {
+    margin: 50px;
+    width: 100px;
+    position: relative;
+    bottom: 1700px;
+    left: -250px;
+    transform: rotate(320deg); 
+}
+.ap {
+    margin: 50px;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    bottom: 1700px;
+    left: -250px;
+    transform: rotate(380deg);
+}
+.pa {
+    margin: 50px;
+    width: 100px;
+    position: relative;
+    bottom: 1650px;
+    left: -350px;
+    transform: rotate(350deg);
+}

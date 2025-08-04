@@ -1,0 +1,18 @@
+.po{
+    width: 270px;
+    height: 20px;
+    background-color: rgb(117, 169, 238);
+    color: white;
+    padding: 3px;
+}
+tr:nth-child(odd){
+    background-color: rgb(117, 169, 238);
+}
+table{
+    border-collapse: collapse;
+    text-align: center;
+}
+pl,tr:first-child{
+    color: white;
+}
+
