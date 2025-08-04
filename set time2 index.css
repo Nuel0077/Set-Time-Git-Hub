@@ -281,3 +281,12 @@
     text-align: center;
     font-size: 15px;
 }
+.giy {
+    width: 300px;
+    position: absolute;
+    bottom: -1180px;
+    left: 70px;
+    font-weight: bold;
+    font-size: 20px;
+    color: darkblue;
+}
