@@ -462,7 +462,48 @@
     position: absolute;
     position: relative;
     margin: 50px;
-    bottom: 700px;
-    left: 200px;
+    bottom: -970px;
+    left: 335px;
+}
+.fb {
+    position: absolute;
+    position: relative;
+    margin: 50px;
+    bottom: -970px;
+    left: 235px;
+}
+.x {
+    position: absolute;
+    position: relative;
+    margin: 50px;
+    bottom: -975px;
+    left: 127px;
+}
+.sge {
+    position: absolute;
+    margin: 50px;
+    bottom: -4645px;
+    left: 890px;
+    list-style: none;
+    font-size: 20px;
+    color: white;
+}
+.ths {
+    position: absolute;
+    margin: 50px;
+    bottom: -4700px;
+    left: 850px;
+    list-style: none;
+    font-size: 15px;
+    color: white;
+}
+.sgb {
+    border: 3px solid white;
+    position: absolute;
+    bottom: -4614px;
+    border-radius: 5px;
+    left: 900px;
+    width: 220px;
+    height: 50px;
 }
 

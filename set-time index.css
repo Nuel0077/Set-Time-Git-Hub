@@ -23,31 +23,37 @@
     left: 450px;
     top: 15px;
     color: darkblue;
+    cursor: pointer;
 }
 .span1:hover {
     text-decoration: underline;
     font-size: 17px;
     transition: 1s ease;
+    color: purple;
 }
 .span2:hover {
     text-decoration: underline;
     font-size: 17px;
     transition: 0.7s ease;
+    color: purple;
 }
 .span3:hover {
     text-decoration: underline;
     font-size: 17px;
     transition: 0.7s ease;
+    color: purple;
 }
 .span4:hover {
     text-decoration: underline;
     font-size: 17px;
     transition: 0.7s ease;
+    color: purple;
 }
 .span5:hover {
     text-decoration: underline;
     font-size: 17px;
     transition: 0.7s ease;
+    color: purple;
 }
 .btn1 {
     position: absolute;
@@ -59,6 +65,7 @@
     padding-left: 20px;
     padding-right: 20px;
     border-radius: 5px;
+    cursor: pointer;
 }
 .btn2 {
     position: absolute;
@@ -70,6 +77,7 @@
     padding-left: 20px;
     padding-right: 20px;
     border-radius: 5px;
+    cursor: pointer;
 }
 .btn1:hover {
     background-color: purple;
@@ -112,6 +120,7 @@
     border: none;
     padding: 20px;
     border-radius: 5px;
+    cursor: pointer;
 }
 .btn4:hover {
     background-color: purple;
@@ -264,6 +273,7 @@
     border: none;
     padding: 20px;
     border-radius: 5px;
+    cursor: pointer;
 }
 .btn5:hover {
     background-color: purple;
@@ -315,6 +325,7 @@
     font-size: 20px;
     color: darkblue;
     left: 115px;
+    cursor: pointer;
 }
 .bec:hover {
     color: purple;
@@ -364,6 +375,7 @@
     font-size: 20px;
     color: darkblue;
     left: 565px;
+    cursor: pointer;
 }
 .bec1:hover {
     color: purple;
@@ -393,6 +405,7 @@
     font-size: 20px;
     color: darkblue;
     left: 838px;
+    cursor: pointer;
 }
 .gen:hover {
     color: purple;
@@ -423,6 +436,7 @@
     font-size: 20px;
     color: darkblue;
     left: 570px;
+    cursor: pointer;
 }
 .bec2:hover {
     color: purple;
@@ -453,6 +467,7 @@
     font-size: 20px;
     color: darkblue;
     left: 850px;
+    cursor: pointer;
 }
 .rob:hover {
     color: purple;
@@ -744,6 +759,7 @@
     position: absolute;
     bottom: -3080px;
     left: 50px;
+    cursor: pointer;
 }
 .fb:hover {
     transform: scale(1.2);
@@ -753,6 +769,7 @@
     position: absolute;
     bottom: -3087px;
     left: 90px;
+    cursor: pointer;
 }
 .x:hover {
     transform: scale(1.2);
@@ -762,6 +779,7 @@
     position: absolute;
     bottom: -3080px;
     left: 165px;
+    cursor: pointer;
 }
 .ig:hover {
     transform: scale(1.2);
@@ -771,6 +789,7 @@
     position: absolute;
     bottom: -3076px;
     left: 225px;
+    cursor: pointer;
 }
 .pin:hover {
     transform: scale(1.2);
@@ -780,6 +799,7 @@
     position: absolute;
     bottom: -3080px;
     left: 275px;
+    cursor: pointer;
 }
 .in:hover {
     transform: scale(1.2);
@@ -803,6 +823,7 @@
     color: white;
     font-size: 15px;
     left: 370px;
+    cursor: pointer;
 }
 .spa1:hover {
     text-decoration: underline;
@@ -847,6 +868,7 @@
     line-height: 2;
     font-size: 15px;
     left: 610px;
+    cursor: pointer;
 }
 .sp1:hover {
     text-decoration: underline;
@@ -949,6 +971,7 @@
     background-color: yellow;
     padding: 15px;
     border-radius: 5px;
+    cursor: pointer;
 }
 .btn6:hover {
     background-color: purple;

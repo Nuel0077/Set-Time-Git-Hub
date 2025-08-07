@@ -1,0 +1,93 @@
+body {
+    background-image: linear-gradient(rgb(149, 149, 241), rgba(255, 17, 235, 0.966));
+    justify-content: center;
+}
+.reg-cont {
+    width: 600px;
+    height: 560px;
+    margin: 30px 100px 100px 300px;
+    background-color: white;
+    padding: 1px 1px 1px 1px;
+    text-align: center;
+    border-radius: 5%;
+}
+h2 {
+    margin-left: -430px;
+    margin-bottom: 50px;
+}
+.full {
+    list-style: none;
+    font-weight: bold;
+    margin-left: -485px;
+}
+.user {
+    list-style: none;
+    font-weight: bold;
+    margin-top: -18px;
+    margin-left: 107px;
+}
+input {
+    width: 250px;
+    height: 30px;
+    margin: 20px;
+    border: 1px solid;
+    border-radius: 10px;
+}
+.em {
+    font-weight: bold;
+    list-style: none;
+    margin-left: -510px;
+    margin-bottom: -20px;
+}
+.ph {
+    font-weight: bold;
+    list-style: none;
+    margin-left: 147px;
+}
+.pass {
+    font-weight: bold;
+    list-style: none;
+    margin-left: -487px;
+    margin-bottom: -20px;
+}
+.cp {
+    font-weight: bold;
+    list-style: none;
+    margin-left: 170px;
+}
+.gen {
+    font-weight: bold;
+    list-style: none;
+    margin-left: -501px;
+    margin-bottom: -20px;
+}
+.rd1 {
+    width: 20px;
+    margin-top: 30px;
+    margin-right: 540px;
+}
+.ml {
+    list-style: none;
+    margin-left: -450px;
+    margin-top: -42px;
+}
+.rd2 {
+    width: 20px;
+    margin-right: 540px;
+}
+.fem {
+    list-style: none;
+    margin-left: -435px;
+    margin-top: -42px;
+}
+button {
+    margin-top: 20px;
+    padding: 10px;
+    width: 450px;
+    color: white;
+    font-weight: bold;
+    background-image: linear-gradient(rgb(52, 52, 194), rgba(255, 17, 235, 0.966));
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

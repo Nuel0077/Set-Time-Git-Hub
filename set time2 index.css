@@ -23,31 +23,37 @@
     left: 450px;
     top: 15px;
     color: darkblue;
+    cursor: pointer;
 }
 .span1:hover {
     text-decoration: underline;
     font-size: 17px;
     transition: 1s ease;
+    color: purple;
 }
 .span2:hover {
     text-decoration: underline;
     font-size: 17px;
     transition: 0.7s ease;
+    color: purple;
 }
 .span3:hover {
     text-decoration: underline;
     font-size: 17px;
     transition: 0.7s ease;
+    color: purple;
 }
 .span4:hover {
     text-decoration: underline;
     font-size: 17px;
     transition: 0.7s ease;
+    color: purple;
 }
 .span5:hover {
     text-decoration: underline;
     font-size: 17px;
     transition: 0.7s ease;
+    color: purple;
 }
 .btn1 {
     position: absolute;
@@ -59,6 +65,7 @@
     padding-left: 20px;
     padding-right: 20px;
     border-radius: 5px;
+    cursor: pointer;
 }
 .btn2 {
     position: absolute;
@@ -70,6 +77,7 @@
     padding-left: 20px;
     padding-right: 20px;
     border-radius: 5px;
+    cursor: pointer;
 }
 .btn1:hover {
     background-color: purple;
@@ -153,6 +161,7 @@
     padding-left: 20px;
     padding-right: 20px;
     border-radius: 5px;
+    cursor: pointer;
 }
 .btn3:hover {
     background-color: purple;
@@ -176,7 +185,7 @@
     font-size: 25px;
     color: darkblue;
 }
-.em {
+.em2 {
     position: absolute;
     bottom: -1050px;
     left: 200px;
@@ -281,12 +290,556 @@
     text-align: center;
     font-size: 15px;
 }
-.giy {
-    width: 300px;
+.img2 {
     position: absolute;
-    bottom: -1180px;
-    left: 70px;
+    bottom: -1530px;
+    left: -12px;
+}
+.twen {
+    position: absolute;
+    bottom: -1410px;
+    left: 150px;
+    list-style: none;
+    font-weight: bold;
+    font-size: 50px;
+    color: purple;
+    cursor: pointer;
+}
+.twen:hover {
+    transform: translateY(-20px);
+    transition: transform 1s ease;
+}
+.ten {
+    position: absolute;
+    bottom: -1410px;
+    left: 450px;
+    list-style: none;
+    font-weight: bold;
+    font-size: 50px;
+    color: purple;
+    cursor: pointer;
+}
+.ten:hover {
+    transform: translateY(-20px);
+    transition: transform 1s ease;
+}
+.fift {
+    position: absolute;
+    bottom: -1410px;
+    left: 740px;
+    list-style: none;
+    font-weight: bold;
+    font-size: 50px;
+    color: purple;
+    cursor: pointer;
+}
+.fift:hover {
+    transform: translateY(-20px);
+    transition: transform 1s ease;
+}
+.thirt {
+    position: absolute;
+    bottom: -1410px;
+    left: 1030px;
+    list-style: none;
+    font-weight: bold;
+    font-size: 50px;
+    cursor: pointer;
+    color: purple;
+}
+.thirt:hover {
+    transform: translateY(-20px);
+    transition: transform 1s ease;
+}
+.pi {
+    position: absolute;
+    bottom: -1403px;
+    left: 210px;
+    text-align: center;
+    list-style: none;
+    font-weight: bold;
+    font-size: 17px;
+    color: red;
+}
+.nce {
+    position: absolute;
+    width: 200px;
+    bottom: -1403px;
+    left: 453px;
+    text-align: center;
+    list-style: none;
+    font-weight: bold;
+    font-size: 17px;
+    color: red;
+}
+.lsem {
+    position: absolute;
+    width: 200px;
+    bottom: -1403px;
+    left: 750px;
+    text-align: center;
+    list-style: none;
+    font-weight: bold;
+    font-size: 17px;
+    color: red;
+}
+.rs {
+    position: absolute;
+    width: 100px;
+    bottom: -1403px;
+    left: 1072px;
+    text-align: center;
+    list-style: none;
+    font-weight: bold;
+    font-size: 17px;
+    color: red;
+}
+.line {
+    position: absolute;
+    width: 50px;
+    height: 3px;
+    background-color: yellow;
+    bottom: -1410px;
+    left: 150px;
+}
+.line1 {
+    position: absolute;
+    width: 50px;
+    height: 3px;
+    background-color: yellow;
+    bottom: -1410px;
+    left: 450px;
+}
+.line2 {
+    position: absolute;
+    width: 50px;
+    height: 3px;
+    background-color: yellow;
+    bottom: -1410px;
+    left: 740px;
+}
+.line3 {
+    position: absolute;
+    width: 50px;
+    height: 3px;
+    background-color: yellow;
+    bottom: -1410px;
+    left: 1030px;
+}
+.meet {
+    width: 400px;
+    position: absolute;
+    bottom: -1630px;
+    font-weight: bold;
+    font-size: 30px;
+    color: darkblue;
+    left: 150px;
+}
+.tech5{
+    position: absolute;
+    bottom: -1960px;
+    left: 150px;
+}
+.tech5:hover {
+    transform: translateY(-15px);
+    transition: transform 1s ease;
+}
+.tech6 {
+    position: absolute;
+    bottom: -1960px;
+    left: 435px;
+}
+.tech6:hover {
+    transform: translateY(-15px);
+    transition: transform 1s ease;
+}
+.tech7 {
+    position: absolute;
+    bottom: -1960px;
+    left: 710px;
+}
+.tech7:hover {
+    transform: translateY(-15px);
+    transition: transform 1s ease;
+}
+.tech8 {
+    position: absolute;
+    bottom: -1960px;
+    left: 980px;
+}
+.tech8:hover {
+    transform: translateY(-10px);
+    transition: transform 1s ease;
+}
+.mr1 {
+    width: 100px;
+    position: absolute;
+    bottom: -1989px;
     font-weight: bold;
     font-size: 20px;
     color: darkblue;
+    left: 149px;
+}
+.web {
+    width: 200px;
+    position: absolute;
+    bottom: -2010px;
+    font-weight: bold;
+    font-size: 17px;
+    left: 150px;
+}
+.box10 {
+    width: 135px;
+    position: absolute;
+    height: 2px;
+    bottom: -2017px;
+    left: 150px;
+    background-color: yellow;
+}
+.mr2 {
+    width: 150px;
+    position: absolute;
+    bottom: -1989px;
+    font-weight: bold;
+    font-size: 20px;
+    color: darkblue;
+    left: 435px;
+}
+.back1 {
+    width: 200px;
+    position: absolute;
+    bottom: -2010px;
+    font-weight: bold;
+    font-size: 17px;
+    left: 435px;
+}
+.box11 {
+    width: 140px;
+    position: absolute;
+    height: 2px;
+    bottom: -2017px;
+    left: 435px;
+    background-color: yellow;
+}
+.mr3 {
+    width: 150px;
+    position: absolute;
+    bottom: -1989px;
+    font-weight: bold;
+    font-size: 20px;
+    color: darkblue;
+    left: 710px;
+}
+.ui1 {
+    width: 200px;
+    position: absolute;
+    bottom: -2010px;
+    font-weight: bold;
+    font-size: 17px;
+    left: 710px;
+}
+.box12 {
+    width: 110px;
+    position: absolute;
+    height: 2px;
+    bottom: -2017px;
+    left: 711px;
+    background-color: yellow;
+}
+.mr4 {
+    width: 150px;
+    position: absolute;
+    bottom: -1989px;
+    font-weight: bold;
+    font-size: 20px;
+    color: darkblue;
+    left: 981px;
+}
+.rob2 {
+    width: 200px;
+    position: absolute;
+    bottom: -2010px;
+    font-weight: bold;
+    font-size: 17px;
+    left: 981px;
+}
+.box13 {
+    width: 110px;
+    position: absolute;
+    height: 2px;
+    bottom: -2017px;
+    left: 981px;
+    background-color: yellow;
+}
+.studs {
+    position: absolute;
+    bottom: -2600px;
+    left: -12px;
+}
+.all {
+    width: 400px;
+    position: absolute;
+    bottom: -2200px;
+    font-weight: bold;
+    font-size: 30px;
+    color: purple;
+    left: 450px;
+}
+.aca {
+    width: 400px;
+    position: absolute;
+    bottom: -2300px;
+    font-weight: bold;
+    font-size: 27px;
+    color: purple;
+    left: 50px;
+}
+.lor {
+    width: 270px;
+    position: absolute;
+    bottom: -2420px;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    left: 50px;
+}
+.fb {
+    position: absolute;
+    bottom: -2480px;
+    left: 50px;
+    cursor: pointer;
+}
+.fb:hover {
+    transform: scale(1.2);
+    transition: 0.8s ease;
+}
+.x {
+    position: absolute;
+    bottom: -2487px;
+    left: 90px;
+    cursor: pointer;
+}
+.x:hover {
+    transform: scale(1.2);
+    transition: 0.8s ease;
+}
+.ig {
+    position: absolute;
+    bottom: -2480px;
+    left: 165px;
+    cursor: pointer;
+}
+.ig:hover {
+    transform: scale(1.2);
+    transition: 0.8s ease;
+}
+.pin {
+    position: absolute;
+    bottom: -2476px;
+    left: 225px;
+    cursor: pointer;
+}
+.pin:hover {
+    transform: scale(1.2);
+    transition: 0.8s ease;
+}
+.in {
+    position: absolute;
+    bottom: -2479px;
+    left: 275px;
+    cursor: pointer;
+}
+.in:hover {
+    transform: scale(1.2);
+    transition: 0.8s ease;
+}
+.ex {
+    width: 200px;
+    position: absolute;
+    bottom: -2300px;
+    font-weight: bold;
+    font-size: 27px;
+    color: purple;
+    left: 370px;
+}
+.ux {
+    width: 200px;
+    position: absolute;
+    bottom: -2460px;
+    font-weight: bold;
+    line-height: 2;
+    color: white;
+    font-size: 15px;
+    left: 370px;
+    cursor: pointer;
+}
+.spa1:hover {
+    text-decoration: underline;
+    font-size: 16px;
+    transition: 0.7s ease;
+}
+.spa2:hover {
+    text-decoration: underline;
+    font-size: 16px;
+    transition: 0.7s ease;
+}
+.spa3:hover {
+    text-decoration: underline;
+    font-size: 16px;
+    transition: 0.7s ease;
+}
+.spa4:hover {
+    text-decoration: underline;
+    font-size: 16px;
+    transition: 0.7s ease;
+}
+.spa5:hover {
+    text-decoration: underline;
+    font-size: 16px;
+    transition: 0.7s ease;
+}
+.con {
+    width: 200px;
+    position: absolute;
+    bottom: -2300px;
+    font-weight: bold;
+    font-size: 27px;
+    color: purple;
+    left: 610px;
+}
+.call {
+    width: 200px;
+    position: absolute;
+    bottom: -2400px;
+    font-weight: bold;
+    color: white;
+    line-height: 2;
+    font-size: 15px;
+    cursor: pointer;
+    left: 610px;
+}
+.sp1:hover {
+    text-decoration: underline;
+    font-size: 16px;
+    transition: 0.7s ease;
+}
+.sp2:hover {
+    text-decoration: underline;
+    font-size: 16px;
+    transition: 0.7s ease;
+}
+.sp3:hover {
+    text-decoration: underline;
+    font-size: 16px;
+    transition: 0.7s ease;
+}
+.ph {
+    position: absolute;
+    bottom: -2333px;
+    left: 670px;
+}
+.em {
+    position: absolute;
+    bottom: -2361px;
+    left: 673px;
+}
+.loc {
+    position: absolute;
+    bottom: -2393px;
+    left: 677px;
+}
+.numb {
+    width: 200px;
+    position: absolute;
+    bottom: -2333px;
+    font-weight: bold;
+    font-size: 13px;
+    color: blue;
+    left: 690px;
+}
+.emai {
+    width: 200px;
+    position: absolute;
+    bottom: -2361px;
+    font-weight: bold;
+    font-size: 13px;
+    color: blue;
+    left: 690px;
+}
+.karma {
+    width: 200px;
+    position: absolute;
+    bottom: -2402px;
+    font-weight: bold;
+    font-size: 13px;
+    color: blue;
+    left: 695px;
+}
+.nws {
+    width: 200px;
+    position: absolute;
+    bottom: -2299px;
+    font-weight: bold;
+    font-size: 27px;
+    color: purple;
+    left: 900px;
+}
+.pell {
+    width: 400px;
+    position: absolute;
+    color: white;
+    bottom: -2360px;
+    font-weight: bold;
+    font-size: 15px;
+    left: 900px;
+}
+.eml {
+    width: 70px;
+    position: absolute;
+    bottom: -2403px;
+    font-size: 15px;
+    color: white;
+    left: 920px;
+}
+.pod {
+    width: 170px;
+    position: absolute;
+    height: 32px;
+    bottom: -2412px;
+    left: 900px;
+    border-radius: 5px;
+    border: 2px solid yellow;
+}
+.btn6 {
+    width: 100px;
+    position: absolute;
+    left: 900px;
+    bottom: -2475px;
+    border: none;
+    background-color: yellow;
+    padding: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.btn6:hover {
+    background-color: purple;
+    border: purple;
+    transition: background-color 1s ease;
+}
+.niel {
+    width: 1330px;
+    position: absolute;
+    height: 3px;
+    left: -12px;
+    bottom: -2527px;
+    background-color: white;
+}
+.copy {
+    width: 500px;
+    position: absolute;
+    bottom: -2570px;
+    font-weight: bold;
+    font-size: 17px;
+    color: purple;
+    left: 440px;
 }
