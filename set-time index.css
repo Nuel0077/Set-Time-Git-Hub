@@ -19,10 +19,10 @@
 .nav {
     display: flex;
     gap: 50px;
+    list-style: none;
     position: absolute;
     left: 450px;
     top: 15px;
-    color: darkblue;
     cursor: pointer;
 }
 .span1:hover {

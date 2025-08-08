@@ -20,6 +20,7 @@
     display: flex;
     gap: 50px;
     position: absolute;
+    list-style: none;
     left: 450px;
     top: 15px;
     color: darkblue;
@@ -712,8 +713,9 @@
     position: absolute;
     bottom: -2400px;
     font-weight: bold;
-    color: white;
+    list-style: none;
     line-height: 2;
+    color: white;
     font-size: 15px;
     cursor: pointer;
     left: 610px;
