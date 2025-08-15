@@ -15,12 +15,57 @@
     color: white;
     cursor: pointer;
 }
+.btn-blue:hover {
+    background-color: purple;
+    transform: scale(1.1);
+    transition: 1s ease;
+}
 .btn-border {
     width: 90px;
     height: 30px;
     border: 1px solid black;
     border-radius: 2px;
     cursor: pointer;
+}
+.btn-border:hover {
+    background-color: purple;
+    transform: scale(1.1);
+    transition: 1s ease;
+    color: white;
+}
+.grid-cont {
+    margin-bottom: 50px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.col {
+    border: 1px solid black;
+    height: 300px;
+    text-align: center;
+}
+.s {
+    list-style: none;
+}
+.lor {
+    list-style: none;
+    width: 400px;
+    padding-left: 20px;
+}
+.cl {
+    padding: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-top: 30px;
+    cursor: pointer;
+    background-color: blue;
+    border: none;
+    border-radius: 50px;
+}
+.cl:hover {
+    background-color: purple;
+    transform: scale(1.1);
+    transition: 1s ease;
+    color: white;
 }
 
     
