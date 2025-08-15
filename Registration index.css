@@ -61,33 +61,21 @@ input {
     margin-left: -501px;
     margin-bottom: -20px;
 }
-.rd1 {
-    width: 20px;
+.rad1 {
+    margin-left: -100px;
     margin-top: 30px;
-    margin-right: 540px;
 }
-.ml {
-    list-style: none;
-    margin-left: -450px;
-    margin-top: -42px;
-}
-.rd2 {
-    width: 20px;
-    margin-right: 540px;
-}
-.fem {
-    list-style: none;
-    margin-left: -435px;
-    margin-top: -42px;
+label {
+    margin-left: -120px;
 }
 button {
-    margin-top: 20px;
     padding: 10px;
     width: 450px;
-    color: white;
-    font-weight: bold;
-    background-image: linear-gradient(rgb(52, 52, 194), rgba(255, 17, 235, 0.966));
-    border: none;
-    border-radius: 5px;
     cursor: pointer;
+    color: white;
+    background-image: linear-gradient(rgb(149, 149, 241), rgba(255, 17, 235, 0.966));
+    font-weight: bold;
+    border-radius: 10px;
+    border: none;
+    margin-top: 30px;
 }
